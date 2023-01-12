@@ -1,5 +1,3 @@
-module github.com/Seagate/gofish
+module github.com/stmcginnis/gofish
 
-go 1.19
-
-require github.com/stmcginnis/gofish v0.13.0
+go 1.16
